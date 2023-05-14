@@ -278,17 +278,12 @@ submitBtn.addEventListener("click", function() {
   // Find the question in the set that matches the user input
   const matchedQuestion = findQuestion(userInput);
   
-  // If there is a match, display the question
+  // If there is a match, display the question and answer
   if (matchedQuestion) {
     questionEl.textContent = matchedQuestion.question;
+    answerEl.textContent = matchedQuestion.answer;
     questionEl.style.display = "block";
-    
-    // Add an event listener to the answer button
-    showAnswerBtn.addEventListener("click", function() {
-      // Display the answer
-      answerEl.textContent = matchedQuestion.answer;
-      answerEl.style.display = "block";
-    });
+    answerEl.style.display = "block";
   }
 });
 
