@@ -237,7 +237,7 @@ const questionSet = [
         "answer": "體,晉,䷢。用,明夷,䷣"
     },
     {
-        "question": "戌子",
+        "question": "戊子",
         "answer": "體,豫,䷏。用,復,䷗"
     },
     {
