@@ -21,7 +21,7 @@ const questionSet = [
         "answer": "體,小畜,䷈。用,姤,䷫"
     },
     {
-        "question": "丁已",
+        "question": "丁巳",
         "answer": "體,需,䷄。用,訟,䷅"
     },
     {
@@ -69,7 +69,7 @@ const questionSet = [
         "answer": "體,同人,䷌。用,大有,䷍"
     },
     {
-        "question": "乙己",
+        "question": "乙巳",
         "answer": "體,革,䷰。用,睽,䷥"
     },
     {
@@ -121,7 +121,7 @@ const questionSet = [
         "answer": "體,屯,䷂。用,解,䷧"
     },
     {
-        "question": "癸已",
+        "question": "癸巳",
         "answer": "體,頤,䷚。用,小過,䷽"
     },
     {
@@ -157,7 +157,7 @@ const questionSet = [
         "answer": "體,蠱,䷑。用,漸,䷴"
     },
     {
-        "question": "己已",
+        "question": "己巳",
         "answer": "體,升,䷭。用,觀,䷓"
     },
     {
@@ -209,7 +209,7 @@ const questionSet = [
         "answer": "體,小過,䷽。用,頤,䷚"
     },
     {
-        "question": "辛已",
+        "question": "辛巳",
         "answer": "體,漸,䷴。用,蠱,䷑"
     },
     {
